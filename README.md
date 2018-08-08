@@ -1,18 +1,20 @@
-# YACET
-**Y**et **A**nother **C**++ **E**ncrypt **T**ool
-## The Working Principle
-> v0.0.1
+## YACET中文文档  
+英文名：**Y**et **A**nother **C**++ **E**ncrypt **T**ool  
+中文名：雅思忒  
+加密算法：
+> v0.0.1  
+非常简单，读入明文，生成随机秘钥，按位异或生成密文。  
+无秘钥破解"你好，世界"需$6.4$天。
 
-Very simple. Only xor the plaintext and the encryption, then return the value.  
-The time for cracking "Hello,world" without the Encryption: `About 2.8 Years`.
-## Thanks
----
-# YACET中文文档
-**Y**et **A**nother **C**++ **E**ncrypt **T**ool
-## 官方中文名 亚思忒
-## 工作原理
-> v0.0.1
+Github地址：[链接](https://github.com/yonggandewo/YACET "欢迎光临")
+## THANKS
+***
+## YACET English Document
+Full name: **Y**et **A**nother **C**++ **E**ncrypt **T**ool  
+Encryption principle:
+> v0.0.1  
+Very simple. Receive the plaintext and make a random secret key, xor the plaintext and secret key to generate the ciphertext.  
+Decrypt the "Hello,world" without the secret key need $3.4$ months.
 
-非常简单。按位异或明文和密钥得到密文。  
-无密钥破解"你好，世界"时间：`2.1个月`
-## 感谢阅读
+The address of Github: [Hyperlink](https://github.com/yonggandewo/YACET "Welcome")
+## THANKS
