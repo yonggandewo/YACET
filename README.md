@@ -3,6 +3,6 @@
 ## The Working Principle
 > v0.0.1
 
-Very simple. Only xor the plaintext and secret keys and returned the value.  
-Desired cracking time: O(16^n)
+Very simple. Only xor the plaintext and the encryption, then return the value.  
+The time for cracking "Hello,world" without the Encryption: About 3.4 Months.
 ## Thanks
