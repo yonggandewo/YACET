@@ -8,7 +8,6 @@
 
 Github地址：[链接](https://github.com/yonggandewo/YACET "欢迎光临")
 ## THANKS
-***
 ## YACET English Document
 Full name: **Y**et **A**nother **C**++ **E**ncrypt **T**ool  
 Encryption principle:
