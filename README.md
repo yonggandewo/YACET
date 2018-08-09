@@ -1,13 +1,4 @@
-## YACET中文文档  
-英文名：**Y**et **A**nother **C**++ **E**ncrypt **T**ool  
-中文名：雅思忒  
-加密算法：
-> v0.0.1  
-非常简单，读入明文，生成随机秘钥，按位异或生成密文。  
-无秘钥破解"你好，世界"需6.4天。
-
-Github地址：[链接](https://github.com/yonggandewo/YACET "欢迎光临")
-## THANKS
+## YAC Repositories No.1
 ## YACET English Document
 Full name: **Y**et **A**nother **C**++ **E**ncrypt **T**ool  
 Encryption principle:
